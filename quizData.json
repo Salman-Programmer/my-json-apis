@@ -1,0 +1,437 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": [
+       
+        {
+          "text": "London",
+          "isCorrect": false
+        },
+        {
+          "text": "Berlin",
+          "isCorrect": false
+        },
+        {
+          "text": "Paris",
+          "isCorrect": true
+        },
+        {
+          "text": "Rome",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        {
+          "text": "Venus",
+          "isCorrect": false
+        },
+        {
+          "text": "Jupiter",
+          "isCorrect": false
+        },
+        {
+          "text": "Mars",
+          "isCorrect": true
+        },
+        {
+          "text": "Saturn",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What country has the highest life expectancy?",
+      "options": [
+        {
+          "text": "China",
+          "isCorrect": false
+        },
+        {
+          "text": "Hong Kong",
+          "isCorrect": true
+        },
+        {
+          "text": "Japan",
+          "isCorrect": false
+        },
+        {
+          "text": "South Korea",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What disease commonly spread on pirate ships?",
+      "options": [
+        {
+          "text": "Scurvy",
+          "isCorrect": true
+        },
+        {
+          "text": "Mumps",
+          "isCorrect": false
+        },
+        {
+          "text": "Pneumonia",
+          "isCorrect": false
+        },
+        {
+          "text": "Influenza",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "How many minutes are in a full week?",
+      "options": [
+       {
+          "text": "10,082",
+          "isCorrect": false
+        },
+        {
+          "text": "10,080",
+          "isCorrect": true
+        },
+        {
+          "text": "10,087",
+          "isCorrect": false
+        },
+        {
+          "text": "10,070",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What company was originally called 'Cadabra'?",
+      "options": [
+        
+        {
+          "text": "Walmart",
+          "isCorrect": false
+        },
+        {
+          "text": "Boeing",
+          "isCorrect": false
+        },
+        {
+          "text": "Starbucks",
+          "isCorrect": false
+        },
+        {
+          "text": "Amazon",
+          "isCorrect": true
+        }
+
+      ]
+    },
+    {
+      "question": "Aureolin is a shade of what color?",
+      "options": [
+       
+        {
+          "text": "Blue",
+          "isCorrect": false
+        },
+        {
+          "text": "Yellow",
+          "isCorrect": true
+        },
+        {
+          "text": "Red",
+          "isCorrect": false
+        },
+        {
+          "text": "Green",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What game studio makes the Red Dead Redemption series?",
+      "options": [
+        {
+          "text": "Rockstar",
+          "isCorrect": true
+        },
+        {
+          "text": "Ubisoft",
+          "isCorrect": false
+        },
+        {
+          "text": "Activision",
+          "isCorrect": false
+        },
+        {
+          "text": "Eelectronic Arts",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Who was the last Tsar of Russia?",
+      "options": [  
+        {
+          "text": "Ivan IV",
+          "isCorrect": false
+        },
+        {
+          "text": "Nicholas II",
+          "isCorrect": true
+        },
+        {
+          "text": "Sviatopolk I",
+          "isCorrect": false
+        },
+        {
+          "text": "Nicholas III",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Which planet in the Milky Way is the hottest?",
+      "options": [
+        {
+          "text": "Mars",
+          "isCorrect": false
+        },
+        {
+          "text": "Jupiter",
+          "isCorrect": false
+        },
+        {
+          "text": "Venus",
+          "isCorrect": true
+        },
+        {
+          "text": "Saturn",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the 4th letter of the Greek alphabet?",
+      "options": [
+       
+        {
+          "text": "Alpha",
+          "isCorrect": false
+        },
+        {
+          "text": "Gamma",
+          "isCorrect": false
+        },
+        {
+          "text": "Epsilon",
+          "isCorrect": false
+        },
+        {
+          "text": "Delta",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "What city is known as 'The Eternal City'?",
+      "options": [
+       
+        {
+          "text": "Venice",
+          "isCorrect": false
+        },
+        {
+          "text": "Athens",
+          "isCorrect": false
+        },
+        {
+          "text": "Rome",
+          "isCorrect": true
+        },
+        {
+          "text": "Patras",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Who discovered that the earth revolves around the sun?",
+      "options": [
+        {
+          "text": "Nicolaus Copernicus",
+          "isCorrect": true
+        },
+        {
+          "text": "Claudius Ptolemy",
+          "isCorrect": false
+        },
+        {
+          "text": "Evangeline Adams",
+          "isCorrect": false
+        },
+        {
+          "text": "Alan Leo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "In what country would you find Mount Kilimanjaro?",
+      "options": [
+       
+        {
+          "text": "Nigeria",
+          "isCorrect": false
+        },
+        {
+          "text": "Somalia",
+          "isCorrect": false
+        },
+
+        {
+          "text": "Tanzania",
+          "isCorrect": true
+        },
+        {
+          "text": "Bulgaria",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "How many bones do we have in an ear?",
+      "options": [
+       
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "3",
+          "isCorrect": true
+        },
+        {
+          "text": "8",
+          "isCorrect": false
+        },
+        {
+          "text": "2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the largest Spanish-speaking city in the world?",
+      "options": [
+      
+        {
+          "text": "Barcelona",
+          "isCorrect": false
+        },
+        {
+          "text": "La Habana",
+          "isCorrect": false
+        },
+        {
+          "text": "Mexico City",
+          "isCorrect": true
+        },
+        {
+          "text": "Buenos Aires",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the world's fastest bird?",
+      "options": [
+        {
+          "text": "The Peregrine Falcon",
+          "isCorrect": true
+        },
+        {
+          "text": "Common swift",
+          "isCorrect": false
+        },
+        {
+          "text": "Red-tailed Hawk",
+          "isCorrect": false
+        },
+        {
+          "text": "Golden Eagle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "In what country is the Chernobyl nuclear plant located?",
+      "options": [
+       
+        {
+          "text": "Romania",
+          "isCorrect": false
+        },
+        {
+          "text": "Russia",
+          "isCorrect": false
+        },
+        {
+          "text": "Georgia",
+          "isCorrect": false
+        },
+        {
+          "text": "Ukraine",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "The Parthenon Marbles are controversially located in what museum?",
+      "options": [
+       
+        {
+          "text": "The Louvre",
+          "isCorrect": false
+        },
+        {
+          "text": "The British Museum",
+          "isCorrect": true
+        },
+        {
+          "text": "Vatican Museums",
+          "isCorrect": false
+        },
+        {
+          "text": "Natural History Museum",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "In what country would you find Mount K2?",
+      "options": [
+       
+        {
+          "text": "Nepal",
+          "isCorrect": false
+        },
+        {
+          "text": "China",
+          "isCorrect": false
+        },
+        {
+          "text": "Pakistan",
+          "isCorrect": true
+        },
+        {
+          "text": "India",
+          "isCorrect": false
+        }
+      ]
+    }
+ 
+  ]
+  
